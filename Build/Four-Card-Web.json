@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Card Games",
+"productVersion": "0.1",
+"dataUrl": "Four-Card-Web.data.unityweb",
+"wasmCodeUrl": "Four-Card-Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Four-Card-Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.19f1"
+}
